@@ -1,1 +1,3 @@
-# mssc-brewery-client
+# MSSC brewery client
+
+Brewery client side
